@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniket-Galdhar
-- 👀 I’m interested in Coding in general
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Coding and emerging tech
+- 🌱 Currently trying to understand Machine Learning
 - 💞️ I’m looking to collaborate on ML and Web Projects
 - 📫 How to reach me aniketgaldhar@gmail.com
 
